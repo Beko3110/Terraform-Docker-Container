@@ -1,1 +1,6 @@
-*.terraform
+[core]
+    autocrlf=true
+
+
+.terraform.lock.hcl
+terraform.tfstate.backup
